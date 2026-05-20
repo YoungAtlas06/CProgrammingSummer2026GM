@@ -1,0 +1,8 @@
+mkdir <directory_name/path> - (make directory)
+cd <directory_name/path> - (change directory)  cd.. -moves to parent directory
+ls (list) - Shows the content of the curret directory
+code <file_names> creates and opens a file
+pwd (print working directory). shows the path of the current directory
+clear- Clears the terminal
+gcc <file_name.c (source code file)> - compiles the c program 
+.\a.out
