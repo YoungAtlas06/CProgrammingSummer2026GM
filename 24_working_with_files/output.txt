@@ -1,0 +1,10 @@
+accelerate wander walk
+want walk want
+(null) hide wander
+accelerate hide run
+walk (null) Fluctuate
+wander Fluctuate wander
+run wander hide
+(null) accelerate (null)
+hide Fluctuate hide
+want accelerate walk
